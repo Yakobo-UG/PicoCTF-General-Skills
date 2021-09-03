@@ -18,3 +18,5 @@ Steps to get the flag:
 3. Final step is to reveal the meta data of the file and this is done by using the cat command with the name of the file placed infront of it e.g cat flag, this will easily reveal the flag
 
 NOTE: cat command does not work with image files
+
+![flag](https://user-images.githubusercontent.com/65670517/131959631-57357e6f-0f2e-4618-8a6e-8dfb7029f716.PNG)
