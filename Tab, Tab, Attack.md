@@ -18,9 +18,13 @@ As usual we first have to download the file
 
 Next is unzipping the file in terminal using the command unzip name of folder, after unzipping the file
 
+![unziping file](https://user-images.githubusercontent.com/65670517/133159087-280d4134-4065-4e43-9d13-ca5250f1b896.PNG)
+
 we just have to cd into the directory, then cd into another directory, then aslo cd into another directory and this goes on until we find a file at the end where we shall execute it uisng the ./ command thus getting the flag as seen below
 
 Note: the Tab command is used to fasten filling in a name of a directory/file,  while in a given directory and wanting to go to another directory one simply has to type in few letters of the folder one want to go into and thus by hitting the Tab command, it fills out the rest of the remianing letters of the folder/file
+
+![done](https://user-images.githubusercontent.com/65670517/133159181-61604752-dbfb-44b0-bf66-08d562741c44.PNG)
 
 
 Lessons learned:
