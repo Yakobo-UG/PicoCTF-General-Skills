@@ -22,7 +22,12 @@ when we input nc mercury.picoctf.net 22902 in the terminal we are able to connec
 
 After inputing the command into the terminal we get multiple of numbers(decimal number) which we shall convert to ASCII to get the flag
 
+![nc pic 1](https://user-images.githubusercontent.com/65670517/133158359-7c96d971-680d-4788-bc0f-b03ea35aba1b.PNG)
+
 next step is finding away to convert the decimal values to ASCII in my case i googled "decimal to ASCII convert" and found a nice online convert which did the job perfectly as seen in the diagram below thus obating the flag
+
+![pic 2](https://user-images.githubusercontent.com/65670517/133158578-38470548-0ec9-4090-a94d-ca47c2d09642.PNG)
+
 
 Lessons learned:
 
