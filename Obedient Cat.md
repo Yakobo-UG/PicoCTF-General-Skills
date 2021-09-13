@@ -20,3 +20,6 @@ Steps to get the flag:
 NOTE: cat command does not work with image files
 
 ![flag](https://user-images.githubusercontent.com/65670517/131959631-57357e6f-0f2e-4618-8a6e-8dfb7029f716.PNG)
+
+LESSONS LEARNED
+-> The cat command helps reveal contents of a file
