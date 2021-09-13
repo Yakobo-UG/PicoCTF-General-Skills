@@ -23,6 +23,9 @@ and finally also combining -d flag.txt.en to obtain the flag
 
 the final command to be used is cat pw.txt | python3 ende.py -d flag.txt.en thus revealing the flag
 
+![exc](https://user-images.githubusercontent.com/65670517/133158780-b66aecf5-f923-4424-8a75-61ff306ab8e5.PNG)
+
+
 Lessons learned:
 
 1. Learned that you can run python programs using python3
