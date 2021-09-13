@@ -25,7 +25,11 @@ next is that we use the ls -l command to check where the file is excecutable or 
 
 To make the file excecutable we run a simple command chmod +x warm, to make the file excecutable, for confirmation use the ls -l command agina to determine wherther the file is now excecutable
 
+![not exc](https://user-images.githubusercontent.com/65670517/133159390-b6ac3592-2e0b-4d28-a05f-6b06816891af.PNG)
+
 Now that the file is excecutable we can run the file using the command ./warm, when we run the file it asks us to pass -h inoder to see what the file can do, without argue we do as required and we input the command ./warm -h, and thus obatining the flag
+
+![flag](https://user-images.githubusercontent.com/65670517/133159468-fbca3bf6-fc8b-46a1-b943-ca088e550695.PNG)
 
 Lessons learned:
 
